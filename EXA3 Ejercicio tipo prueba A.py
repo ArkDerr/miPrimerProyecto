@@ -1,6 +1,8 @@
 import os
 import time
 
+#Daniel
+
 #Variables
 opc1=0
 opc2=0
